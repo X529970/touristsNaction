@@ -1,0 +1,11 @@
+Homework Assignment 3:  Justin and Rahel: team effort
+
+The simple example we built attempts to create a relational system
+of subject actions and objects, where certain senses can only 
+be applied to certain objects.
+
+we create a thousand random instances of subjects and objects and
+attempt to determine how many possible ways we can match subjects to 
+objects.
+
+We do this to test the parallel processing potential in Ruby as well.
